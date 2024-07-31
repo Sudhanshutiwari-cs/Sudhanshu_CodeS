@@ -1,0 +1,26 @@
+{
+  "name": "sudhanshu_codes",
+  "version": "1.0.0",
+  "description": "Website  For Sudhanshu CodeS",
+  "main": "main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Sudhanshu_CodeS"
+  },
+  "keywords": [
+    "Website",
+    "For",
+    "Sudhanshu_CodeS"
+  ],
+  "author": "Sudhanshu Tiwari",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
